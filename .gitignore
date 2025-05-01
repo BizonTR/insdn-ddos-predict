@@ -1,0 +1,8 @@
+# config.json dosyasını git'e dahil etme
+config.json
+
+# InSDN_DatasetCSV klasörünü ve içeriğini git'e dahil etme
+/InSDN_DatasetCSV/
+
+# ddos_model.pkl dosyasını git'e dahil etme
+ddos_model.pkl
