@@ -6,3 +6,5 @@ config.json
 
 # ddos_model.pkl dosyasını git'e dahil etme
 ddos_model.pkl
+
+combined_flows.csv
